@@ -1,0 +1,111 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" group-title="Indonesia🇮🇩",GTV
+http://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Indonesia🇮🇩", MNCTV 
+http://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" group-title="Indonesia🇮🇩", SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" group-title="Indonesia🇮🇩", SCTV Alternatif 
+http://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" group-title="Indonesia🇮🇩", INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" group-title="Indonesia🇮🇩", INDOSIAR Alternatif 
+http://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="Indonesia🇮🇩", RCTI
+http://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="Indonesia🇮🇩", MOJI
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" group-title="Indonesia🇮🇩", RTV
+http://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" group-title="Indonesia🇮🇩", RTV Alternatif 
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Indonesia🇮🇩", MDTV
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png" group-title="Indonesia🇮🇩", NUSANTARA TV
+http://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png" group-title="Indonesia🇮🇩", NUSANTARA TV
+http://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png" group-title="Indonesia🇮🇩", INEWS TV
+http://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg" group-title="Indonesia🇮🇩", IDX CHANNEL
+http://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png" group-title="Indonesia🇮🇩", TVONE
+http://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png" group-title="Indonesia🇮🇩", TVONE Alternatif 
+http://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_sindonews.png" group-title="Indonesia🇮🇩", SINDONEWS TV
+http://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg" group-title="Indonesia🇮🇩", SINPO TV
+http://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" group-title="Indonesia🇮🇩", KOMPAS TV
+https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" group-title="Indonesia🇮🇩", KOMPAS TV Alternatif 
+http://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/logo-collapse.png" group-title="Indonesia🇮🇩", TVRI Sports
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/logo-collapse.png" group-title="Indonesia🇮🇩", TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Indonesia🇮🇩", METRO TV
+https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ID|  ANTV" tvg-logo="http:/zal/www.dens.tv/images/channel-logo/8.jpg" group-title="Indonesia🇮🇩",ANTV
+http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1165776
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http:/zal/www.dens.tv/images/channel-logo/8.jpg" group-title="Indonesia🇮🇩",ANTV Alternatif 
+http://210.210.155.35/session/a19bb9a0-c886-11ea-934d-b82a72d63267/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ID|  TransTV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia🇮🇩",TransTV
+http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1165872
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ID|  Trans7" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="Indonesia🇮🇩",Trans7
+http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1165871
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="RCTI+",RCTI (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="RCTI+",GTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="RCTI+",MNCTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="RCTI+",INEWS (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="RCTI+",Trans TV CDG
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="RCTI+",Trans 7 CDG 
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
